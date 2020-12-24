@@ -1,13 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T08:45:32.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jcvSsYW93F0niA_cAKk2" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T08:51:19.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="O94rzO3PGR94xM-sOxP_" version="14.1.1" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="920" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Oideqtfe7ucw9kuo85nb-92" value="User enters the UI application" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-137" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="860" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="Oideqtfe7ucw9kuo85nb-92" value="User enters the UI application" style="whiteSpace=wrap;html=1;perimeterSpacing=0;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-93" value="" style="ellipse;html=1;shape=startState;rounded=1;fillColor=#F5F5F5;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-93" value="" style="ellipse;html=1;shape=startState;fillColor=#050505;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="75" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Oideqtfe7ucw9kuo85nb-94" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#030303;" edge="1" source="Oideqtfe7ucw9kuo85nb-93" parent="1">
@@ -15,7 +18,7 @@
             <mxPoint x="400" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-96" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-96" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Oideqtfe7ucw9kuo85nb-97" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oideqtfe7ucw9kuo85nb-92" target="Oideqtfe7ucw9kuo85nb-96">
@@ -24,10 +27,10 @@
             <mxPoint x="530" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-99" value="OData GET requests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-99" value="OData GET requests" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="640" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-100" value="System creates new metadata" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-100" value="System creates new metadata" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="340" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Oideqtfe7ucw9kuo85nb-101" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oideqtfe7ucw9kuo85nb-96" target="Oideqtfe7ucw9kuo85nb-99">
@@ -42,13 +45,13 @@
             <mxPoint x="530" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-103" value="Metadata&amp;nbsp; cached" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-103" value="Metadata&amp;nbsp; cached" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="280" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-104" value="Metadata&amp;nbsp; cache is empty" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-104" value="Metadata&amp;nbsp; cache is empty" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="380" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-105" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-105" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Oideqtfe7ucw9kuo85nb-106" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oideqtfe7ucw9kuo85nb-100" target="Oideqtfe7ucw9kuo85nb-105">
@@ -57,7 +60,7 @@
             <mxPoint x="410" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-109" value="Add new dynamic field control properties to the metadata and link them with fields" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-109" value="Add new dynamic field control properties to the metadata and link them with fields" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="335" y="710" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Oideqtfe7ucw9kuo85nb-110" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oideqtfe7ucw9kuo85nb-105" target="Oideqtfe7ucw9kuo85nb-109">
@@ -66,13 +69,13 @@
             <mxPoint x="440" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-112" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Dynamic field controls for the service exist in the customizing&lt;/span&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-112" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Dynamic field controls for the service exist in the customizing&lt;/span&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="650" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-113" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;No dynamic field controls for the service&amp;nbsp;&lt;/span&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-113" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;No dynamic field controls for the service&amp;nbsp;&lt;/span&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="510" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-116" value="Cache metadata" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-116" value="Cache metadata" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="150" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Oideqtfe7ucw9kuo85nb-120" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oideqtfe7ucw9kuo85nb-105" target="Oideqtfe7ucw9kuo85nb-116">
@@ -81,7 +84,7 @@
             <mxPoint x="410" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-121" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" target="Oideqtfe7ucw9kuo85nb-116">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-121" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Oideqtfe7ucw9kuo85nb-116">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="335" y="744.41" as="sourcePoint" />
             <mxPoint x="245" y="744.41" as="targetPoint" />
@@ -90,7 +93,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-122" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="Oideqtfe7ucw9kuo85nb-116" target="Oideqtfe7ucw9kuo85nb-96">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-122" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oideqtfe7ucw9kuo85nb-116" target="Oideqtfe7ucw9kuo85nb-96">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="520" as="sourcePoint" />
             <mxPoint x="210" y="310" as="targetPoint" />
@@ -99,7 +102,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-123" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-123" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="660" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Oideqtfe7ucw9kuo85nb-124" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -108,10 +111,10 @@
             <mxPoint x="699" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-125" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Dynamic field controls for the service exist in the customizing&lt;/span&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-125" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Dynamic field controls for the service exist in the customizing&lt;/span&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="380" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-126" value="Set Dynamic field control values" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-126" value="Set Dynamic field control values" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="840" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Oideqtfe7ucw9kuo85nb-127" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oideqtfe7ucw9kuo85nb-123" target="Oideqtfe7ucw9kuo85nb-126">
@@ -120,7 +123,7 @@
             <mxPoint x="650" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-128" value="Set Dynamic field control values" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-128" value="Form Response" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="640" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Oideqtfe7ucw9kuo85nb-129" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oideqtfe7ucw9kuo85nb-123" target="Oideqtfe7ucw9kuo85nb-128">
@@ -129,10 +132,10 @@
             <mxPoint x="850" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-131" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;No dynamic field controls for the service&amp;nbsp;&lt;/span&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-131" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;No dynamic field controls for the service&amp;nbsp;&lt;/span&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="480" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Oideqtfe7ucw9kuo85nb-132" value="" style="endArrow=classic;html=1;strokeColor=#030303;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=0;" edge="1" parent="1" source="Oideqtfe7ucw9kuo85nb-126" target="Oideqtfe7ucw9kuo85nb-128">
+        <mxCell id="Oideqtfe7ucw9kuo85nb-132" value="" style="endArrow=classic;html=1;strokeColor=#030303;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Oideqtfe7ucw9kuo85nb-126" target="Oideqtfe7ucw9kuo85nb-128">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="630" as="sourcePoint" />
             <mxPoint x="640" y="580" as="targetPoint" />
@@ -140,6 +143,21 @@
               <mxPoint x="900" y="570" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Oideqtfe7ucw9kuo85nb-135" value="" style="endArrow=classic;html=1;strokeColor=#030303;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Oideqtfe7ucw9kuo85nb-136">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="600" as="sourcePoint" />
+            <mxPoint x="700" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oideqtfe7ucw9kuo85nb-136" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="830" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oideqtfe7ucw9kuo85nb-138" value="&lt;h1&gt;Dynamic Field Control concept for SAP Fiori Programming Model&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="140" width="260" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
